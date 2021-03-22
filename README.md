@@ -1,4 +1,4 @@
-# Coffee
+# Coffee Table
 
 A new Flutter project.
 
