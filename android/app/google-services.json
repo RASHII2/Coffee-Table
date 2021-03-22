@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359639886475",
+    "project_id": "project-firebase-aaf44",
+    "storage_bucket": "project-firebase-aaf44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359639886475:android:b01ad49a7379d168f3828e",
+        "android_client_info": {
+          "package_name": "com.example.u_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359639886475-4gsmm8ubeiotrere3lkt5q49ltn02nm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtOG4l_5IjdpDvrLc3aau_-kY5uBmVfNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359639886475-4gsmm8ubeiotrere3lkt5q49ltn02nm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
